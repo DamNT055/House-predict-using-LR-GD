@@ -4,6 +4,9 @@
 
 The purpose of the project is to predict the market value of the property being sold. This program helps to find the starting price of a location based on location variables. Similarly, consider a situation in which a person needs to sell a house. By using a real estate pricing system, the seller will be able to determine what features he can add to the house so that the house can be sold at a higher price. Therefore, in both cases, we can be sure that the home price is good for both the buyer and the seller. Housing prices go up every year, so there is a need for a real estate forecasting system. Estimating the price of a house can help a developer determine the selling price of a house and can help clients set a reasonable time to buy a home.
 
+<center><img src="https://github.com/DamNT055/damnt055.github.io/blob/master/images/download.png"/></center>
+
+
 ## Step by step 
 _ Load the data set, Select features, Remove
 NAs
