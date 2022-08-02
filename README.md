@@ -1,6 +1,6 @@
 # House Price Predict using Linear Regression-Gradient Descent
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://drive.google.com/file/d/1tqjjYsYfm_FYFOCcgNJFBVhDge_-49Vu/view)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1tqjjYsYfm_FYFOCcgNJFBVhDge_-49Vu)
 
 ## Overview
 
