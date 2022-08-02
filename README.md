@@ -1,1 +1,1 @@
-# House-predict-using-Linear-Regression-Gradient-Descent
+# House Price Predict using Linear Regression-Gradient Descent
